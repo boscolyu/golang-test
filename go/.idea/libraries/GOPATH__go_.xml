@@ -7,7 +7,6 @@
       <root url="file://$USER_HOME$/go/src/trade" />
       <root url="file://$USER_HOME$/go/src/wallet" />
     </CLASSES>
-    <JAVADOC />
     <SOURCES>
       <root url="file://$USER_HOME$/go/src/github.com" />
       <root url="file://$USER_HOME$/go/src/boscolyu.github.io" />
