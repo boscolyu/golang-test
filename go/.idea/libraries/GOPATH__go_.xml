@@ -1,0 +1,22 @@
+<component name="libraryTable">
+  <library name="GOPATH &lt;go&gt;">
+    <CLASSES>
+      <root url="file://$USER_HOME$/go/src/github.com" />
+      <root url="file://$USER_HOME$/go/src/boscolyu.github.io" />
+      <root url="file://$USER_HOME$/go/src/sacc" />
+      <root url="file://$USER_HOME$/go/src/trade" />
+      <root url="file://$USER_HOME$/go/src/wallet" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$USER_HOME$/go/src/github.com" />
+      <root url="file://$USER_HOME$/go/src/boscolyu.github.io" />
+      <root url="file://$USER_HOME$/go/src/sacc" />
+      <root url="file://$USER_HOME$/go/src/trade" />
+      <root url="file://$USER_HOME$/go/src/wallet" />
+    </SOURCES>
+    <excluded>
+      <root url="file://$PROJECT_DIR$" />
+    </excluded>
+  </library>
+</component>
