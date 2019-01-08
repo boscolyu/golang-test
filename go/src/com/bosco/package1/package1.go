@@ -1,4 +1,4 @@
-package package1
+package package3
 
 var package1Var = "package1"
 
