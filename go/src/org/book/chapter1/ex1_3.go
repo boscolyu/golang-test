@@ -16,14 +16,14 @@ func main() {
 	for {
 		s = sep + count
 		if count > 100 {
-			break;
+			break
 		}
 	}
 	fmt.Println(s)
 	fmt.Println(time.Now())
 
 
-	fmt.Println(strings.Join(os.Args[2], " "))
+	fmt.Println(strings.Join(os.Args[2:], " "))
 	fmt.Println(time.Now())
 	fmt.Println(os.Args)
 	fmt.Println(time.Now())

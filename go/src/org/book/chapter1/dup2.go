@@ -11,6 +11,9 @@ func main() {
 	files := os.Args[1:]
 	if len(files) == 0 {
 		countLines(os.Stdin, counts)
+		// else가 줄바꿈이 되면 에러 발생함.
+		//	# command-line-arguments
+		//	./dup2.go:15:2: syntax error: unexpected else, expecting }
 	} else {
 		for _, arg := range files {
 			f, err := os.Open(arg)
